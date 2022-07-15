@@ -9,4 +9,5 @@
 경희대학교 컴퓨터공학과 정병석
 경희대학교 컴퓨터공학과 황세훈
 
+## 관련 링크
 수신호 관련 영상 링크: https://www.youtube.com/watch?v=gPgJEDcOkWU
